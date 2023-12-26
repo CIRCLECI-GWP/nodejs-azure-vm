@@ -19,4 +19,8 @@ module.exports = [
     id: 5,
     task: "Take out the trash",
   },
+  {
+    id: 6,
+    task: "Deploy app",
+  },
 ];
