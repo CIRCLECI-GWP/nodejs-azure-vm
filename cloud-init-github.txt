@@ -20,7 +20,7 @@ write_files:
       }
 runcmd:
   # install Node.js
-  - 'curl -fsSL https://deb.nodesource.com/setup_21.x | sudo -E bash -'
+  - 'curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -'
   - 'sudo apt-get install -y nodejs'
   # clone GitHub Repo into myapp directory
   - 'cd /home/azureuser'
