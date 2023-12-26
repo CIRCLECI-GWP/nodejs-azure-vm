@@ -14,7 +14,7 @@ git clone https://github.com/CIRCLECI-GWP/nodejs-azure-vm.git
 cd nodejs-azure-vm
 ```
 
-## Install dependencies
+## Install dependencies.
 
 ```
 npm install
